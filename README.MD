@@ -2,7 +2,7 @@
 
 
 ```python
-
+$ pip install cv2-collage 
 from cv2_collage import create_collage
 
 lst = [
